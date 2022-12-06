@@ -27,15 +27,15 @@
 
 .portada {
     height: 600px;
-    background: #a0a0a0;
+    background: #faebe1;
 }
 
-.btn__color_b {
-    background: #0095D6;
+.btn__color_r {
+    background: #ef826f
 }
 
-.btn__color_b:hover {
-    background: #0176A9
+.btn__color_r:hover {
+    background: #c75a4a;
 }
 
 .btn__color_g {
@@ -68,12 +68,20 @@
     box-sizing: border-box;
 }
 
-.color__g {
-    background: #7F31A3;;
+.color__w {
+    background: #fff9f5;
 }
 
-.color__b {
-    background: #0095D6
+.color__g {
+    background: #71bd9f;;
+}
+
+.color__r {
+    background: #ef826f
+}
+
+.color__y {
+    background: #ffb230
 }
 
 .letter__color_white {
