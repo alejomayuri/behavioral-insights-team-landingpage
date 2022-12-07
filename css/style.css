@@ -123,7 +123,7 @@ section {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding: 130px 10px;
+    padding: 70px 10px;
     box-sizing: border-box;
 }
 
@@ -310,7 +310,7 @@ section {
     }
 
     .portada__text {
-        padding: 145px 0;
+        padding: 80px 0;
         padding-left: 20px;
     }
 
