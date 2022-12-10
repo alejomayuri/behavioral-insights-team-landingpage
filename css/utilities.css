@@ -127,4 +127,8 @@
     .pad__50 {
         padding: 50px 10px !important;
     }
+
+    .margin_bottom_20 {
+        margin-bottom: 20px;
+    }
 }
